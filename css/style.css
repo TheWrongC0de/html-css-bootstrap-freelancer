@@ -1,0 +1,12 @@
+
+
+
+
+
+
+#media ul{
+  list-style-type: none;
+}
+#media li{
+  display: inline-block;
+}
