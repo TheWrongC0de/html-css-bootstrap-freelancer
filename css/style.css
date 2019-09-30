@@ -71,7 +71,8 @@
   color: #2c3e50;
   margin-top: 10px;
 }
-#media3 img{
-  width: 720px;
+.call-xs-12 img{
+  width: 500px;
   text-align: center;
+
 }
