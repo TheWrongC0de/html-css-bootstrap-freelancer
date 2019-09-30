@@ -2,11 +2,23 @@
 
 
 
-
-
+#media{
+  text-align: center;
+  height: 80px;
+  background-color: #2c3e50;
+}
+#media a{
+  margin-top: 30px;
+}
+#media ul{
+ margin-top: 30px;
+}
 #media ul{
   list-style-type: none;
 }
 #media li{
   display: inline-block;
+  margin-left: 50px;
+
+
 }
